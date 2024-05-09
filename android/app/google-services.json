@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465150723749",
+    "project_id": "kyysh-e8b88",
+    "storage_bucket": "kyysh-e8b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465150723749:android:32ed158ad63256fe65ef4c",
+        "android_client_info": {
+          "package_name": "com.example.kyysh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0bOLRekwWgwCOYnJSQ1MMeF8J5quXx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
